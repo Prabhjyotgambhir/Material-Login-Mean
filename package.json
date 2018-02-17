@@ -1,0 +1,19 @@
+{
+  "name": "mlm",
+  "version": "1.0.0",
+  "description": "Login based app using angular material",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prabhjyotgambhir/Material-Login-Mean.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prabhjyotgambhir/Material-Login-Mean/issues"
+  },
+  "homepage": "https://github.com/Prabhjyotgambhir/Material-Login-Mean#readme"
+}
